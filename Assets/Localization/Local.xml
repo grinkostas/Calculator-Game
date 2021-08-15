@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key name="StartGame">
+		<Translates>
+			<English>Start Game</English>
+			<Russian>Начать игру</Russian>
+			<Polish>Rozpocząć Grę</Polish>
+			<German>Spiel beginnen</German>
+			<Ukrainian>Почати Гру</Ukrainian>
+			<French>Jouer</French>
+			<Spanish>Empezar a jugar</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Addition">
+		<Translates>
+			<English>Addition</English>
+			<Russian>Сложение</Russian>
+			<Polish>Dodatek</Polish>
+			<German>Zusatz</German>
+			<Ukrainian>Додавання</Ukrainian>
+			<French>Addition</French>
+			<Spanish>Adición</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Subtraction">
+		<Translates>
+			<English>Subtract</English>
+			<Russian>Вычитание</Russian>
+			<Polish>Odejmowanie</Polish>
+			<German>Subtraktion</German>
+			<Ukrainian>Віднімання</Ukrainian>
+			<French>Soustraction</French>
+			<Spanish>Sustracción</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Multiplication">
+		<Translates>
+			<English>Multiply</English>
+			<Russian>Умножение</Russian>
+			<Polish>Mnożenie</Polish>
+			<German>Multiplikation</German>
+			<Ukrainian>Множення</Ukrainian>
+			<French>Multiplication</French>
+			<Spanish>Multiplicación</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Division">
+		<Translates>
+			<English>Division</English>
+			<Russian>Деление</Russian>
+			<Polish>Dzielenie</Polish>
+			<German>Einteilung</German>
+			<Ukrainian>Дiлення</Ukrainian>
+			<French>Division</French>
+			<Spanish>División</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Score">
+		<Translates>
+			<English>Score</English>
+			<Russian>Счёт</Russian>
+			<Polish>Wynik</Polish>
+			<German>Ergebnis</German>
+			<Ukrainian>Рахунок</Ukrainian>
+			<French>Compte</French>
+			<Spanish>Puntación</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Restart">
+		<Translates>
+			<English>Restart</English>
+			<Russian>Сыграть еще раз</Russian>
+			<Polish>Uruchom ponownie</Polish>
+			<German>Neustart</German>
+			<Ukrainian>Перезапустити</Ukrainian>
+			<French>Redémarrage</French>
+			<Spanish>Reanudar</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Resume">
+		<Translates>
+			<English>Resume</English>
+			<Russian>Продолжить</Russian>
+			<Polish>Wznawiać</Polish>
+			<German>Weitermachen</German>
+			<Ukrainian>Продовжити</Ukrainian>
+			<French>Reprendre</French>
+			<Spanish>Reanudar</Spanish>
+		</Translates>
+	</Key>
+	<Key name="ResponseTime">
+		<Translates>
+			<English>Response Time</English>
+			<Russian>Время ответа</Russian>
+			<Polish>Czas odpowiedzi</Polish>
+			<German>Reaktionszeit</German>
+			<Ukrainian>Час вiдповiдi</Ukrainian>
+			<French>Temps de réponse</French>
+			<Spanish>Tiempo de respuesta</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Error1">
+		<Translates>
+			<English>Choose at least 1 type of exercise</English>
+			<Russian>Выберите хотя бы 1 вид упражнений</Russian>
+			<Polish>Wybierz co najmniej 1 rodzaj ćwiczeń</Polish>
+			<German>Wähle mindestens 1 Übungsart</German>
+			<Ukrainian>Виберіть принаймні 1 вид вправ</Ukrainian>
+			<French>Choisissez au moins 1 type d'exercice</French>
+			<Spanish>Elija al menos 1 tipo de ejercicio</Spanish>
+		</Translates>
+	</Key>
+	<Key name="ChangeLanguage">
+		<Translates>
+			<English>Change Language</English>
+			<Russian>Изменить язык</Russian>
+			<Polish>Zmień język</Polish>
+			<German>Sprache ändern</German>
+			<Ukrainian>Змінити мову</Ukrainian>
+			<French>
+Changer de langue</French>
+			<Spanish>Cambiar idioma</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Close">
+		<Translates>
+			<English>Close</English>
+			<Russian>Закрыть</Russian>
+			<Polish>Zamknąć</Polish>
+			<German>Schließen</German>
+			<Ukrainian>Закрити</Ukrainian>
+			<French>Fermer</French>
+			<Spanish>Cerrar</Spanish>
+		</Translates>
+	</Key>
+	<Key name="DifficultyLevel">
+		<Translates>
+			<English>Difficulty Level</English>
+			<Russian>Уровень Сложности</Russian>
+			<Polish>Poziom trudności</Polish>
+			<German>Schwierigkeitsgrad</German>
+			<Ukrainian>Рівень складності</Ukrainian>
+			<French>Niveau de difficulté</French>
+			<Spanish>Nivel de dificultad</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Easy">
+		<Translates>
+			<English>Easy</English>
+			<Russian>Легко</Russian>
+			<Polish>Łatwo</Polish>
+			<German>Einfach</German>
+			<Ukrainian>Легко</Ukrainian>
+			<French>Facile</French>
+			<Spanish>Fácil</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Medium">
+		<Translates>
+			<English>Medium</English>
+			<Russian>Средне</Russian>
+			<Polish>Średnio</Polish>
+			<German>Mittel</German>
+			<Ukrainian>Середньо</Ukrainian>
+			<French>Moyen</French>
+			<Spanish>Medio</Spanish>
+		</Translates>
+	</Key>
+	<Key name="Hard">
+		<Translates>
+			<English>Hard</English>
+			<Russian>Сложно</Russian>
+			<Polish>Trudno</Polish>
+			<German>Schwer</German>
+			<Ukrainian>Важко</Ukrainian>
+			<French>Difficile</French>
+			<Spanish>Duro</Spanish>
+		</Translates>
+	</Key>
+</Keys>
