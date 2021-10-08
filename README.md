@@ -1,6 +1,6 @@
 # Calculator-Game
 
-Educational math kids game
+Educational math game for kids
 
 Androind build - https://drive.google.com/file/d/17nZgKZwGHdSLwOAikOnYQhv8zUWO6g_W/view?usp=sharing
 
